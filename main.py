@@ -2,8 +2,7 @@
 
 
 def main():
-    print("Hello, world!")
-    print("Bye,world..")
+    print("dev")
 
 
 if __name__ == '__main__':
